@@ -20,8 +20,8 @@ while True :
         c=int(input("enter the choice"))
         if (c<=0 or c>4):
           print("invalid enter correct choice")
-        b=int(input("enter the value"))
         a=int(input("enter the value"))
+        b=int(input("enter the value"))
     
         if(c==1):
             add(a,b)
