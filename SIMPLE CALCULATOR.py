@@ -10,10 +10,10 @@ def div(x,y):
       print(x, "/", y, "=",x/y)
 
 
-print("1.addition")
-print("2.subraction")
-print("3.multiplication")
-print("4.division")
+print("1.Addition")
+print("2.Subraction")
+print("3.Multiplication")
+print("4.Division")
 
 
 while True :
