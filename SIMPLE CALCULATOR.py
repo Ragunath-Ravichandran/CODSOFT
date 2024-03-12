@@ -24,8 +24,8 @@ while True :
           print("invalid enter correct choice")
           break
         else:
-            a=int(input("enter the value"))
-            b=int(input("enter the value"))
+            a=float(input("enter the value"))
+            b=float(input("enter the value"))
           
         
     
